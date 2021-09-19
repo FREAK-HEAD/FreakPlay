@@ -5,7 +5,7 @@
     },
     "config": {
         "http": {
-          "port": 25717
+          "port": 80
         },
         "https": {
             "paths": {

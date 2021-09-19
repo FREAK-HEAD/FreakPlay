@@ -1,0 +1,23 @@
+{
+    "website" : {
+      "support": "https://discord.gg/uB2rWSRX",
+      "domain": "http://167.86.117.85:25717"
+    },
+    "config": {
+        "http": {
+          "port": 25717
+        },
+        "https": {
+            "paths": {
+                "privkey": "/etc/letsencrypt/live/FreakPlayv2.freakhead007.repl.co/privkey.pem",
+                "fullchain": "/etc/letsencrypt/live/FreakPlayv2.freakhead007.repl.co/fullchain.pem",
+                "chain": "/etc/letsencrypt/live/FreakPlayv2.freakhead007.repl.co/chain.pem"
+            },
+            "enabled": false,
+            "port": 4884
+        },
+        "callback": "http://167.86.117.85:25717/callback",
+        "clientID": "856166101481029643",
+        "secret": "ouEIu57me40g2Lh5Zh12bjWZSwbQsHwm"
+    }
+  }

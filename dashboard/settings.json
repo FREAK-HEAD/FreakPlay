@@ -1,7 +1,7 @@
 {
     "website" : {
       "support": "https://discord.gg/uB2rWSRX",
-      "domain": "http://167.86.117.85:25717"
+      "domain": "http://0.0.0.0"
     },
     "config": {
         "http": {
@@ -16,7 +16,7 @@
             "enabled": false,
             "port": 4884
         },
-        "callback": "http://167.86.117.85:25717/callback",
+        "callback": "http://0.0.0.0/callback",
         "clientID": "856166101481029643",
         "secret": "ouEIu57me40g2Lh5Zh12bjWZSwbQsHwm"
     }

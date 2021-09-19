@@ -1,7 +1,7 @@
 {
     "website" : {
       "support": "https://discord.gg/uB2rWSRX",
-      "domain": "http://0.0.0.0"
+      "domain": "https://safe-depths-81316.herokuapp.com"
     },
     "config": {
         "http": {
@@ -16,7 +16,7 @@
             "enabled": false,
             "port": 4884
         },
-        "callback": "http://0.0.0.0/callback",
+        "callback": "https://safe-depths-81316.herokuapp.com/callback",
         "clientID": "856166101481029643",
         "secret": "ouEIu57me40g2Lh5Zh12bjWZSwbQsHwm"
     }
